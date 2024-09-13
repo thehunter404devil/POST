@@ -22,12 +22,13 @@ The Anand Mehra Post Tool is a Python script designed to automate posting commen
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/anand-mehra-post-tool.git
+   git clone https://github.com/thehunter404devil/POST.git
+   
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd anand-mehra-post-tool
+   cd POST
    ```
 
 3. **Install Dependencies**:
@@ -42,7 +43,7 @@ The Anand Mehra Post Tool is a Python script designed to automate posting commen
 
 2. **Run the Script**:
    ```bash
-   python your_script_name.py
+   python PostTool.py
    ```
 
 3. **Follow On-Screen Prompts**:
@@ -80,4 +81,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For issues or questions, please contact [Your Name](mailto:your.email@example.com).
+For issues or questions, please contact [Anand Mehra](mailto: mm9736090@gmail.com)
+whatsp:+917643890954.
